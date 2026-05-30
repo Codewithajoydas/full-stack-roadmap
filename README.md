@@ -2,81 +2,71 @@
 
 > A comprehensive interactive roadmap designed to guide developers from fundamentals to world-class full-stack engineering.
 
-![Roadmap Banner](./assets/banner.png)
+![GitHub stars](https://img.shields.io/github/stars/Codewithajoydas/full-stack-roadmap?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Codewithajoydas/full-stack-roadmap?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Codewithajoydas/full-stack-roadmap?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Codewithajoydas/full-stack-roadmap?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Codewithajoydas/full-stack-roadmap?style=for-the-badge)
+![Roadmap](https://img.shields.io/badge/Phases-25-blue?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-120+-green?style=for-the-badge)
+
+---
 
 ## Overview
 
 This project provides a structured learning path covering the complete software development journey.
 
-The roadmap is organized into **25 phases**, starting from Computer Fundamentals and progressing through Frontend, Backend, Databases, Security, DevOps, Cloud, System Design, AI Engineering, and Senior Developer skills.
-
-The goal is to create a single place where developers can:
-
-- Track learning progress
-- Visualize skill dependencies
-- Follow a structured path
-- Build industry-relevant skills
-- Become production-ready engineers
+The roadmap is organized into 25 phases, starting from Computer Fundamentals and progressing through Frontend, Backend, Databases, Security, DevOps, Cloud, System Design, AI Engineering, and Senior Developer skills.
 
 ---
 
-## Features
+# 25 Phases to World-Class Engineering
 
-### Interactive Learning Roadmap
+**0 / 120 Topics Mastered**
 
-- 25 structured learning phases
-- Skill-tree based navigation
-- Progress tracking
-- Topic completion system
-- Search functionality
-- Learning plan visualization
+Click any phase to explore.
 
-### Progress Management
+| Phase    | Domain                       | Topics | Estimated Duration |
+| -------- | ---------------------------- | ------ | ------------------ |
+| Phase 1  | Computer Fundamentals        | 13     | 2–4 Weeks          |
+| Phase 2  | Linux Mastery                | 6      | 3–4 Weeks          |
+| Phase 3  | Git & Version Control        | 5      | 1–2 Weeks          |
+| Phase 4  | HTML Mastery                 | 4      | 2–3 Weeks          |
+| Phase 5  | CSS Mastery                  | 5      | 3–4 Weeks          |
+| Phase 6  | JavaScript Mastery           | 6      | 6–8 Weeks          |
+| Phase 7  | TypeScript Mastery           | 4      | 3–4 Weeks          |
+| Phase 8  | Data Structures & Algorithms | 5      | 6–8 Weeks          |
+| Phase 9  | Frontend Engineering         | 3      | 3–4 Weeks          |
+| Phase 10 | React Mastery                | 4      | 4–6 Weeks          |
+| Phase 11 | Backend Engineering          | 5      | 4–6 Weeks          |
+| Phase 12 | Database Engineering         | 7      | 4–6 Weeks          |
+| Phase 13 | Security Engineering         | 5      | 3–4 Weeks          |
+| Phase 14 | Testing Mastery              | 4      | 3–4 Weeks          |
+| Phase 15 | DevOps Engineering           | 4      | 4–6 Weeks          |
+| Phase 16 | Cloud Engineering            | 5      | 4–6 Weeks          |
+| Phase 17 | Software Architecture        | 4      | 4–6 Weeks          |
+| Phase 18 | System Design                | 4      | 4–6 Weeks          |
+| Phase 19 | Observability & Monitoring   | 4      | 2–3 Weeks          |
+| Phase 20 | Performance Engineering      | 4      | 3–4 Weeks          |
+| Phase 21 | AI Engineering               | 4      | 4–6 Weeks          |
+| Phase 22 | Developer Productivity       | 3      | 1–2 Weeks          |
+| Phase 23 | Essential Tools              | 4      | 2–3 Weeks          |
+| Phase 24 | Real Projects                | 4      | Ongoing            |
+| Phase 25 | Senior Developer Skills      | 4      | Ongoing            |
 
-- Completion percentage tracking
-- Phase-wise progress
-- Topic counters
-- Learning statistics
+---
 
-### Modern UI
+## Roadmap Statistics
 
-- Dark theme interface
-- Responsive layout
-- Interactive cards
-- Clean roadmap visualization
-- Fast navigation experience
-
-### Structured Learning Path
-
-The roadmap includes:
-
-| Phase | Topic |
-|---------|---------|
-| 1 | Computer Fundamentals |
-| 2 | Linux Mastery |
-| 3 | Git & Version Control |
-| 4 | HTML Mastery |
-| 5 | CSS Mastery |
-| 6 | JavaScript Mastery |
-| 7 | TypeScript Mastery |
-| 8 | Data Structures & Algorithms |
-| 9 | Frontend Engineering |
-| 10 | React Mastery |
-| 11 | Backend Engineering |
-| 12 | Database Engineering |
-| 13 | Security Engineering |
-| 14 | Testing Mastery |
-| 15 | DevOps Engineering |
-| 16 | Cloud Engineering |
-| 17 | Software Architecture |
-| 18 | System Design |
-| 19 | Observability & Monitoring |
-| 20 | Performance Engineering |
-| 21 | AI Engineering |
-| 22 | Developer Productivity |
-| 23 | Essential Tools |
-| 24 | Real Projects |
-| 25 | Senior Developer Skills |
+| Metric                  | Count |
+| ----------------------- | ----- |
+| Total Phases            | 25    |
+| Total Topics            | 120+  |
+| Frontend Sections       | 7     |
+| Backend Sections        | 5     |
+| Infrastructure Sections | 4     |
+| Architecture Sections   | 2     |
+| AI Sections             | 1     |
 
 ---
 
@@ -84,212 +74,39 @@ The roadmap includes:
 
 After completing this roadmap, you should be able to:
 
-- Build modern frontend applications
-- Develop scalable backend systems
-- Design efficient databases
-- Implement authentication and security
-- Deploy applications to the cloud
-- Build CI/CD pipelines
-- Monitor production systems
-- Design scalable architectures
-- Create AI-powered applications
-- Lead engineering projects
+* Build production-ready applications
+* Design scalable architectures
+* Develop secure backend systems
+* Work with modern databases
+* Implement CI/CD pipelines
+* Deploy applications to cloud platforms
+* Monitor and optimize systems
+* Build AI-powered applications
+* Lead software projects
+* Operate as a senior full-stack engineer
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Current
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+* React
+* Vite
+* JavaScript
+* CSS
 
-### Future Enhancements
+### Planned
 
-- React
-- TypeScript
-- Local Storage Persistence
-- Progress Analytics
-- Roadmap Visualization Engine
-- User Accounts
-- Cloud Sync
-
----
-
-## Project Structure
-
-```text
-fullstack-roadmap/
-│
-├── index.html
-├── src/
-│   ├── data/
-│   ├── components/
-│   ├── styles/
-│   └── utils/
-│
-├── assets/
-│   ├── icons/
-│   ├── images/
-│   └── screenshots/
-│
-└── README.md
-```
-
----
-
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/fullstack-roadmap.git
-```
-
-### Navigate Into Project
-
-```bash
-cd fullstack-roadmap
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## Screenshots
-
-### Roadmap Dashboard
-
-Add screenshots here:
-
-```text
-assets/screenshots/dashboard.png
-```
-
----
-
-## Roadmap Philosophy
-
-Most roadmaps focus only on technologies.
-
-This roadmap focuses on becoming a complete engineer.
-
-The progression follows:
-
-```text
-Fundamentals
-      ↓
-Frontend Development
-      ↓
-Backend Development
-      ↓
-Databases
-      ↓
-Security
-      ↓
-DevOps
-      ↓
-Cloud
-      ↓
-Architecture
-      ↓
-System Design
-      ↓
-AI Engineering
-      ↓
-Senior Engineering Skills
-```
-
----
-
-## Planned Features
-
-- Topic Notes
-- Learning Resources
-- Bookmark System
-- Weekly Learning Plans
-- Progress Analytics
-- Export Progress
-- Roadmap Dependencies Graph
-- Dark/Light Theme
-- User Authentication
-- Cloud Synchronization
-
----
-
-## Who Is This For?
-
-- Students
-- Self-taught Developers
-- Frontend Developers
-- Backend Developers
-- Full Stack Developers
-- Software Engineers
-- Career Switchers
-- Engineering Students
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push changes
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
+* TypeScript
+* Local Storage Persistence
+* Progress Analytics
+* Roadmap Visualization Engine
+* User Accounts
+* Cloud Synchronization
 
 ---
 
 ## Future Vision
 
-The long-term goal is to make this roadmap one of the most comprehensive and practical learning platforms for software engineers, covering everything from beginner fundamentals to senior-level architecture and leadership.
-
----
-
-## Author
-
-**Ajoy Das**
-
-Portfolio: https://codewithajoydas.live
-
-GitHub: https://github.com/your-github-username
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-### "25 Phases to World-Class Engineering"
+The long-term goal is to create one of the most comprehensive developer roadmaps available, covering the complete journey from beginner to senior-level software engineering.
